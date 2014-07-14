@@ -1,1 +1,10 @@
 Tinder like card stack implementation
+
+
+This is developed using Android Studio. Import it to android Studio and build it using Ctrl + F9.
+It uses Android Annotations, nineoldandroids extensions.
+
+
+If you fail to build the project with the current build.gradle file in the App folder, 
+change it to https://gist.github.com/syllogismos/9e513b068e1a5feebfea
+and build it with Ctrl + F9 to generate all the necessary classes from annotated classes in src folder.
