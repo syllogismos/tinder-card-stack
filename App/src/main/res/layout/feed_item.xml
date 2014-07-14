@@ -28,7 +28,7 @@
         android:text="No"
         android:textSize="40dp"
         android:textColor="#FF0000"
-        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="7dp"
         android:layout_marginRight="10dp"
@@ -42,10 +42,10 @@
         android:text="Ok"
         android:textSize="40dp"
         android:textColor="#00FF00"
-        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_marginTop="7dp"
-        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </RelativeLayout>
